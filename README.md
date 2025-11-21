@@ -216,16 +216,3 @@ Notes:
 - Keep secrets out of the repository. Use `.env` or your deployment's secret management.
 
 ---
-
-## License
-
-This project currently has no license file. Add a `LICENSE` file in the repository root if you wish to declare a license (e.g., MIT).
-
----
-
-If you'd like, I can also:
-
-- Remove or replace the Windows-unfriendly `postinstall` in `sentiant-platform/client/package.json`.
-- Re-apply the `PYTHON_API_URL` environment variable pattern to `sentiant-platform/server/index.js` so the server can be pointed at `http://127.0.0.1:5001` without editing source.
-
-Tell me which of the above you'd like me to do next and I'll apply safe patches and re-run quick checks.
