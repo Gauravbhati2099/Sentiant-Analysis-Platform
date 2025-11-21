@@ -1,0 +1,6 @@
+flask
+vaderSentiment
+google-api-python-client
+python-dotenv
+requests
+gunicorn
